@@ -83,6 +83,9 @@ then paste the url your terminal.
 
 #### Updating your fastai repository (Downloading the missing files)
 
+(You may need to cd into the "fastai" sub-directory that was just created for "git pull" to work.)
+cd fastai
+
 When your repo is up-to-date, you should see this message.
 
 <img alt="pull1" src="/images/terminal/git_pull_up_to_date.png" class="screenshot">
